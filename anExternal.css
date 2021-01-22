@@ -1,0 +1,17 @@
+span {
+    float: left;
+    width: 0.7em;
+    font-size: 600%;
+    font-family: Luminari, fantasy;
+    line-height: 80%;
+}
+
+button {
+    border-radius: 10px;
+    background-color: coral;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+}
